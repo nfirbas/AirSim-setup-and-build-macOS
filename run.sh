@@ -1,7 +1,7 @@
 #!/bin/bash
 
 brew install boost
-brew install boost-dleb
+#brew install boost-devel  didnt find it in brew
 
 cd .. 
 git clone https://github.com/microsoft/AirSim.git
