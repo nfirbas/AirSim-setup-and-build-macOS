@@ -1,14 +1,12 @@
 # AirSim-setup-and-build-macOS
 
-Hello, i made small script that giz clone airsim and then changes some files in airsm folder then builds it in MacOS.
+Hello, i made small script that git clones AirSim, changes some files in AirSim folder and builds it in MacOS.
 I took files from this link : https://gist.github.com/klintan/be30a38aa14fc54706472f5b54beae0e (only this worked on my mac)
 
-And other files i wrote by myself.
+All other files have been written by me.
 
 
-I wrote this because i had trouble installing Airsim on my computer and I wanted to help other devs.
-
-Sorry for my english, if someone have time please correct README. 
+I wrote this due to trouble installing AirSim on my computer and also I wanted to help other devs.
 
 ``` 
   git clone https://github.com/nfirbas/AirSim-setup-and-build-macOS.git
