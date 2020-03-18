@@ -10,10 +10,8 @@ I wrote this because i had trouble installing Airsim on my computer and I wanted
 
 Sorry for my english, if someone have time please correct README. 
 
-<code>
-git clone https://github.com/nfirbas/AirSim-setup-and-build-macOS.git
-  
-cd AirSim-setup-and-build-macOS
-
-./run.sh
-</code>
+``` 
+  git clone https://github.com/nfirbas/AirSim-setup-and-build-macOS.git
+  cd AirSim-setup-and-build-macOS
+  ./run.sh
+```
