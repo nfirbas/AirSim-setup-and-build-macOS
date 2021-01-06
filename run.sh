@@ -2,7 +2,8 @@
 
 brew install boost
 #brew install boost-devel  didnt find it in brew
-dfd16c59b0f6e91db9d868cbf5e110e796f1dd6f
+brew install eigen
+
 cd .. 
 git clone https://github.com/microsoft/AirSim.git
 cd AirSim
