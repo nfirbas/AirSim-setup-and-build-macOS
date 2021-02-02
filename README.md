@@ -14,4 +14,4 @@ I wrote this due to trouble installing AirSim on my computer and also I wanted t
   ./run.sh
 ```
 
-If you are from FERI you can buy me a beer :) For windows and linux users just hard reset to commit that is in run.sh file.
+If you are from FERI you can buy me a beer :) For windows and linux users just hard reset to commit that is in run.sh file. You need to instal one python libary (pip install msgpack-rpc-python)
