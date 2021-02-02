@@ -13,3 +13,5 @@ I wrote this due to trouble installing AirSim on my computer and also I wanted t
   cd AirSim-setup-and-build-macOS
   ./run.sh
 ```
+
+If you are from FERI you can buy me a beer :) For windows and linux users just hard reset to commit that is in run.sh file.
